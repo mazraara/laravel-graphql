@@ -72,3 +72,8 @@ This will respond
     ]
   }
 }`
+
+
+Acknowledgments
+
+https://github.com/Folkloreatelier/laravel-graphql
